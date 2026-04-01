@@ -1,0 +1,15 @@
+Patient Id,Patient Admission Date,Patient Admission Time,Merged,Patient Gender,Patient Age,Patient Race,Department Referral,Patient Admission Flag,Patient Satisfaction Score,Patient Waittime
+536-68-0475,09-09-2024,1:14:00 PM,T. Shillaker,Female,25,African American,General Practice,Admission,6,14
+288-66-5811,09-09-2023,12:20:00 AM,K. Beseke,Male,63,Declined to Identify,General Practice,Not Admission,0,50
+543-16-9617,09-08-2024,9:28:00 PM,U. Ervin,Male,79,Pacific Islander,General Practice,Admission,1,34
+644-62-8312,09-08-2024,12:34:00 AM,O. Bille,Male,60,Declined to Identify,Orthopedics,Not Admission,4,28
+662-15-8330,09-08-2023,4:04:00 AM,B. Dyet,Male,4,African American,Orthopedics,Not Admission,10,20
+255-92-8939,09-08-2023,8:30:00 PM,V. Dy,Male,65,Two or More Races,Renal,Admission,8,26
+258-52-1051,09-08-2023,6:13:00 PM,R. Duddell,Male,15,White,Orthopedics,Not Admission,2,36
+288-52-5096,09-07-2024,12:47:00 PM,X. Ginty,Male,49,African American,Gastroenterology,Not Admission,2,50
+441-73-7448,09-07-2024,3:46:00 AM,Z. Stickles,Male,60,African American,Gastroenterology,Not Admission,9,45
+172-88-6642,09-07-2024,11:43:00 AM,O. Boggon,Male,53,African American,General Practice,Admission,8,42
+888-09-0158,09-07-2023,8:42:00 PM,H. Rossiter,Male,7,Asian,General Practice,Not Admission,6,37
+207-67-5562,09-06-2024,3:30:00 PM,T. Fraanchyonok,Female,64,White,Physiotherapy,Admission,5,25
+419-82-3648,09-06-2024,3:48:00 PM,M. Duchasteau,Male,72,Asian,Orthopedics,Not Admission,10,34
+826-96-7716,09-06-2024,2:18:00 AM,B. Twiggs,Male,78,Two or More Races,General Practice,Not Admission,3,60
